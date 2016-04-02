@@ -1,12 +1,5 @@
-# cfa_crc_arduino_example
-Example for communicating with Crystalfontz intelligent displays
+# CFA835 Serial Communication With Arduino
 
-This example uses the new CFA835 as the target device.
+I will document my extension of Crystalfontz's original code sample to offer a more complete "library" of functions to utilize the majority of the CFA835's features with Arduino.
 
-##### - NOTE -
-
-The CRC examples are applicable for all Crystalfontz intelligent displays.
-
-This example contains certain commands that may only work on the CFA835.
-
-Please see the datasheet for your specific module for a complete command listing.
+I'll primarily center the programming around Arduino Uno for similicity.
