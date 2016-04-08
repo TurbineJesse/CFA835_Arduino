@@ -1,8 +1,8 @@
 # Arduino Library For Crystalfontz's CFA835 LCD Display
 
-I will document my extension of Crystalfontz's original code sample to offer a more complete "library" of functions to utilize the majority of the CFA835's features with Arduino.
+This Arduino library is built upon a set of 'core' functions originally written by Crystalfontz. I've greatly extended the number of available functions and compiled it all into an easy-to-use library, including a couple example scripts.
 
-The following are the functions available in the library. The (*) symbol designates the functions written by CrystalFontz. The rest I have added.
+The following are the functions available in the library. The (*) symbol designates the functions written by Crystalfontz. The rest I have added.
 
 CFA835_Arduino Library Functions:
 
